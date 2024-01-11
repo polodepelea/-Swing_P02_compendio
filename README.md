@@ -30,14 +30,14 @@ Instrucciones generales para ejecutar la aplicación desde la línea de comandos
 
 Explicación sobre el sistema de versionado utilizado.
 
-## Autores
+## 🤴 Autores
 
 - Lenny López Pérez
 
-## Licencia
+## ⛔ Licencia
 
-Este proyecto está licenciado bajo [Nombre de la Licencia]. Consulte el archivo LICENSE.md para obtener más detalles.
+© Año 2024 por está bajo licencia CC BY-NC-ND 4.0 
 
-## Recursos adicionales
+## 💀 Contacto
 
 - [![GitHub Follow](https://img.shields.io/badge/Connect-polodepelea-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/polodepelea)
