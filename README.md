@@ -25,7 +25,8 @@ Instrucciones generales para ejecutar la aplicación desde la línea de comandos
 
 ## Construido
 
-- El proyecto esta construido con Java y Swing
+- Java 19
+- Biblioteca Swing para la interfaz gráfica
 
 ## 🦶 Versionado
 
