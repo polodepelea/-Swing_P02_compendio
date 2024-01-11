@@ -1,6 +1,6 @@
 # -Swing_P02_compendio
 
-## Descripción del Proyecto
+## 🤓 Descripción del Proyecto
 
 Bienvenido a la aplicación de Gestión de Apartamentos Turísticos de Lenny Sofas. Esta herramienta ha sido desarrollada para facilitar la administración eficiente de la información relacionada con los apartamentos turísticos ofrecidos por nuestra empresa.
 
