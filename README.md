@@ -19,21 +19,25 @@ Bienvenido a la aplicación de Gestión de Apartamentos Turísticos de Lenny Sof
 
 Para ejecutar la aplicación en un entorno Windows, sigue estos pasos:
 
-1. Ve a la carpeta "Ejecutable" en el repositorio de GitHub.
+1. Descarge el proyecto.
 
-2. Encuentra el ejecutable de la aplicación (LennySofas.jar).
+2. Ve a la carpeta "Ejecutable".
 
-3. Haz clic en el ejecutable para iniciar la aplicación.
+3. Encuentra el ejecutable de la aplicación (LennySofas.jar).
+
+4. Haz clic en el ejecutable para iniciar la aplicación.
 
 ### Línea de Comandos
 
 Si prefieres ejecutar la aplicación desde la línea de comandos, sigue estos pasos:
 
-1. Abre una terminal o línea de comandos en tu sistema.
+1. Descarge el proyecto.
 
-2. Navega hasta la carpeta "Ejecutable" en el repositorio.
+2. Abre una terminal o línea de comandos en tu sistema.
 
-3. Ejecuta el ejecutable desde la línea de comandos utilizando el siguiente comando:
+3. Navega hasta la carpeta "Ejecutable" en el repositorio.
+
+4. Ejecuta el ejecutable desde la línea de comandos utilizando el siguiente comando:
    
    ```bash
    ./LennySofas.jar
