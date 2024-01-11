@@ -2,11 +2,17 @@
 
 ## Descripción del Proyecto
 
-Breve descripción del proyecto.
+Bienvenido a la aplicación de Gestión de Apartamentos Turísticos de Lenny Sofas. Esta herramienta ha sido desarrollada para facilitar la administración eficiente de la información relacionada con los apartamentos turísticos ofrecidos por nuestra empresa.
 
-## Contenido de la publicación
+**Características Principales:**
+- Registro y gestión de datos de arrendadores.
+- Detalles completos de los inmuebles, incluyendo características, imágenes y tarifas.
+- Cálculo automático del precio mínimo basado en diversas opciones de alojamiento.
 
-Información adicional sobre el proyecto y su contexto.
+**Desarrollado por Lenny Sofas:**
+Esta aplicación ha sido diseñada y desarrollada por el equipo de Lenny Sofas para brindar una experiencia de usuario intuitiva y eficaz. Estamos comprometidos a proporcionar soluciones innovadoras y de alta calidad para la gestión de apartamentos turísticos.
+
+¡Gracias por elegir Lenny Sofas!
 
 ## Desarrollo del proyecto
 
