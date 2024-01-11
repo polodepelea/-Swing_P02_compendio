@@ -35,12 +35,11 @@ Si prefieres ejecutar la aplicación desde la línea de comandos, sigue estos pa
 
 2. Abre una terminal o línea de comandos en tu sistema.
 
-3. Navega hasta la carpeta "Ejecutable" en el repositorio.
+3. Navega hasta la carpeta "Ejecutable".
 
-4. Ejecuta el ejecutable desde la línea de comandos utilizando el siguiente comando:
-   
+5. Ejecuta el ejecutable desde la línea de comandos utilizando el siguiente comando:
    ```bash
-   ./LennySofas.jar
+   LennySofas.jar
 
 ## 🏗️ Construido
 
