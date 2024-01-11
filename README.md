@@ -26,9 +26,9 @@ Instrucciones generales para ejecutar la aplicación desde la línea de comandos
 
 - Lista de tecnologías y herramientas utilizadas en el proyecto.
 
-## Versionado
+## 🦶 Versionado
 
-Explicación sobre el sistema de versionado utilizado.
+- Version 1.1
 
 ## ⛔ Licencia
 
