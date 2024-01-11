@@ -13,7 +13,7 @@ Bienvenido a la aplicación de Gestión de Apartamentos Turísticos de Lenny Sof
 - En el desarrollo de la aplicación de Gestión de Apartamentos Turísticos de Lenny Sofas, se optó por Eclipse como entorno de desarrollo.
 - El código se organiza de manera modular, asignando una clase específica para cada panel de la interfaz gráfica. Esto facilita la comprensión del código y mejora la mantenibilidad.
   
-## 👉 Despliegue
+## 🌐 Despliegue
 
 ### Windows
 
