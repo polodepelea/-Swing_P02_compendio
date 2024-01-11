@@ -36,7 +36,7 @@ Explicación sobre el sistema de versionado utilizado.
 
 ## ⛔ Licencia
 
-© Año 2024 por está bajo licencia CC BY-NC-ND 4.0 
+- © Año 2024 por está bajo licencia CC BY-NC-ND 4.0 
 
 ## 💀 Contacto
 
