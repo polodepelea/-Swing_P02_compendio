@@ -30,7 +30,7 @@ Instrucciones generales para ejecutar la aplicación desde la línea de comandos
 
 ## 🦶 Versionado
 
-- Version 1.1
+- Version 1.0
 
 ## ⛔ Licencia
 
