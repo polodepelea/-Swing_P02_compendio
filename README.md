@@ -9,11 +9,6 @@ Bienvenido a la aplicación de Gestión de Apartamentos Turísticos de Lenny Sof
 - Detalles completos de los inmuebles, incluyendo características, imágenes y tarifas.
 - Cálculo automático del precio mínimo basado en diversas opciones de alojamiento.
 
-**Desarrollado por Lenny Sofas:**
-Esta aplicación ha sido diseñada y desarrollada por el equipo de Lenny Sofas para brindar una experiencia de usuario intuitiva y eficaz. Estamos comprometidos a proporcionar soluciones innovadoras y de alta calidad para la gestión de apartamentos turísticos.
-
-¡Gracias por elegir Lenny Sofas!
-
 ## Desarrollo del proyecto
 
 Detalles sobre el desarrollo del proyecto, tecnologías utilizadas, estructura del código, etc.
