@@ -53,7 +53,7 @@ Si prefieres ejecutar la aplicación desde la línea de comandos, sigue estos pa
 
 ## ⛔ Licencia
 
-- © Año 2024 por está bajo licencia CC BY-NC-ND 4.0
+- Boost Software License - Version 1.0
 
 ## 🤴 Autores
 
