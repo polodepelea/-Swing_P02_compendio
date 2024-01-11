@@ -1,6 +1,6 @@
 # -Swing_P02_compendio
 
-## 🤓 Descripción del Proyecto
+## 🚀 Descripción del Proyecto
 
 Bienvenido a la aplicación de Gestión de Apartamentos Turísticos de Lenny Sofas. Esta herramienta ha sido desarrollada para facilitar la administración eficiente de la información relacionada con los apartamentos turísticos ofrecidos por nuestra empresa.
 
@@ -42,23 +42,23 @@ Si prefieres ejecutar la aplicación desde la línea de comandos, sigue estos pa
    ```bash
    ./LennySofas.jar
 
-## 🧱 Construido
+## 🏗️ Construido
 
 - Java 19
 - Biblioteca Swing para la interfaz gráfica
 
-## 🦶 Versionado
+## 📅 Versionado
 
 - Version 1.0
 
-## ⛔ Licencia
+## ⚖️ Licencia
 
 - Boost Software License - Version 1.0
 
-## 🤴 Autores
+## 👑 Autores
 
 - Lenny López Pérez
 
-## 💀 Contacto
+## 📬 Contacto
 
 - [![GitHub Follow](https://img.shields.io/badge/Connect-polodepelea-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/polodepelea)
