@@ -22,9 +22,9 @@ Instrucciones específicas para ejecutar la aplicación en Windows.
 
 Instrucciones generales para ejecutar la aplicación desde la línea de comandos.
 
-## Construido con
+## Construido
 
-- Lista de tecnologías y herramientas utilizadas en el proyecto.
+- El proyecto esta construido con Java y Swing
 
 ## 🦶 Versionado
 
