@@ -10,9 +10,9 @@ Bienvenido a la aplicación de Gestión de Apartamentos Turísticos de Lenny Sof
 - Cálculo automático del precio mínimo basado en diversas opciones de alojamiento.
 
 ## Desarrollo del proyecto
-
-Detalles sobre el desarrollo del proyecto, tecnologías utilizadas, estructura del código, etc.
-
+- En el desarrollo de la aplicación de Gestión de Apartamentos Turísticos de Lenny Sofas, se optó por Eclipse como entorno de desarrollo. La estructura del proyecto se diseñó con una clase dedicada para cada panel de la interfaz gráfica.
+- El código se organiza de manera modular, asignando una clase específica para cada panel de la interfaz gráfica. Esto facilita la comprensión del código y mejora la mantenibilidad.
+  
 ## Despliegue
 
 ### Windows
