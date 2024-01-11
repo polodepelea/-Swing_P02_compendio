@@ -30,13 +30,13 @@ Instrucciones generales para ejecutar la aplicación desde la línea de comandos
 
 Explicación sobre el sistema de versionado utilizado.
 
+## ⛔ Licencia
+
+- © Año 2024 por está bajo licencia CC BY-NC-ND 4.0
+
 ## 🤴 Autores
 
 - Lenny López Pérez
-
-## ⛔ Licencia
-
-- © Año 2024 por está bajo licencia CC BY-NC-ND 4.0 
 
 ## 💀 Contacto
 
